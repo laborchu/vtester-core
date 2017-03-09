@@ -1,0 +1,29 @@
+{
+  "name": "vtester-core",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laborchu/vtester-core.git"
+  },
+  "keywords": [
+    "vtester"
+  ],
+  "author": "laborc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laborchu/vtester-core/issues"
+  },
+  "homepage": "https://github.com/laborchu/vtester-core#readme",
+  "devDependencies": {
+    "should": "^11.1.1"
+  },
+  "dependencies": {
+    "class-extend": "^0.1.2",
+    "lodash": "^4.17.4"
+  }
+}
