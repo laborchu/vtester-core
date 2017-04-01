@@ -1,6 +1,6 @@
 {
   "name": "vtester-core",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "vtester core",
   "main": "index.js",
   "scripts": {
